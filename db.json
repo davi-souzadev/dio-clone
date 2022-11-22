@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Davi de Souza",
+      "email": "davisouza@email.com",
+      "password": 123456
+    },
+    {
+      "id": 2,
+      "name": "John Doe",
+      "email": "johndoe@email.com",
+      "password": 654321
+    },
+    {
+      "email": "joaozinho@gmail.com",
+      "password": "12344567",
+      "id": 3
+    },
+    {
+      "email": "joaozinho@gmail.com.br",
+      "password": "12344567",
+      "id": 4
+    },
+    {
+      "email": "gersin@gmail.com",
+      "password": "12323455",
+      "id": 5
+    },
+    {
+      "email": "gersin2@gmail.com",
+      "password": "12323455",
+      "id": 6
+    }
+  ]
+}
